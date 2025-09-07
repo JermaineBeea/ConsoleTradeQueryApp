@@ -1,3 +1,11 @@
-/home/wtc/Documents/RepositoryAccounts/Personal_GitHUb/Java/SQL_Simple/src/main/java/co/za/Main/QueryImplementation.java
-/home/wtc/Documents/RepositoryAccounts/Personal_GitHUb/Java/SQL_Simple/src/main/java/co/za/Main/QueryFunction.java
-/home/wtc/Documents/RepositoryAccounts/Personal_GitHUb/Java/SQL_Simple/src/main/java/co/za/Main/VariableDatabase.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/ConsoleApplication/ConsoleDatabase.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/ConsoleApplication/ConsoleGUIApplication.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/ConsoleApplication/ConsoleImplementation.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/ConsoleApplication/ConsoleJavaFXApplication.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/ConsoleApplication/ConsoleLauncher.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/ConsoleApplication/TradeVariable.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/TradeModules/TradeFunction.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/WebTradeApplication/WebApp.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/WebTradeApplication/WebAppDataBase.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/WebTradeApplication/WebQueryImplementation.java
+/workspaces/ConsoleTradeQueryApp/src/main/java/co/za/Main/WebTradeApplication/WebServerApplication.java

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConsoleGUIApplication",
+            "request": "launch",
+            "mainClass": "co.za.Main.ConsoleApplication.ConsoleGUIApplication",
+            "projectName": "exercise"
+        },
+        {
+            "type": "java",
+            "name": "ConsoleLauncher",
+            "request": "launch",
+            "mainClass": "co.za.Main.ConsoleApplication.ConsoleLauncher",
+            "projectName": "exercise"
+        },
+        {
+            "type": "java",
             "name": "WebApp",
             "request": "launch",
             "mainClass": "co.za.Main.WebTradeApplication.WebApp",
